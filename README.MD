@@ -12,40 +12,41 @@ JSONCSS is an innovative approach to styling web applications by replacing tradi
 ✅ **More Powerful than CSS** - Can be transformed and extended effortlessly.  
 ✅ **Easier Debugging** - JSON allows for structured error messages, making it easy to identify missing properties, invalid values, or syntax issues.  
 
----
-
-🎯 Features
-
-✔️ Supports all CSS properties.
-✔️ Works with JavaScript seamlessly.
-✔️ Easy to convert JSON to standard CSS.
-✔️ Can be dynamically modified in real-time.
-✔️ Error Handling - JSON allows you to detect missing brackets, misplaced commas, or invalid property names quickly.
-
 
 ---
 
-🛠 Debugging & Error Handling
+## 🎯 Features
+
+✔️ **Supports all CSS properties.**
+✔️ **Works with JavaScript seamlessly.**
+✔️ **Easy to convert JSON to standard CSS.**
+✔️ **Can be dynamically modified in real-time.**
+✔️ **Error Handling** - JSON allows you to detect missing brackets, misplaced commas, or invalid property names quickly.
+
+
+---
+
+## 🛠 Debugging & Error Handling
 
 One major advantage of JSONCSS is that errors are easy to find. Unlike CSS, where a missing semicolon or incorrect nesting can be hard to debug, JSON structure ensures:
 
-✅ Proper Syntax Enforcement - JSON doesn’t allow missing brackets or incorrect nesting.
-✅ Error Messages - If a value is missing or incorrectly formatted, JSON parsers will highlight the exact line causing the issue.
-✅ Easy Identification - JSON linters can detect problems automatically, making debugging faster and more efficient.
+✅ **Proper Syntax Enforcement** - JSON doesn’t allow missing brackets or incorrect nesting.
+✅ **Error Messages** - If a value is missing or incorrectly formatted, JSON parsers will highlight the exact line causing the issue.
+✅ **Easy Identification** - JSON linters can detect problems automatically, making debugging faster and more efficient.
 
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
 
 ---
 
-✨ Author
+## ✨ Author
 
-Developed by Zero
+Developed by **Zero**
 
 ---
 
