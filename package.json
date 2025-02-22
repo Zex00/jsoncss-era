@@ -1,0 +1,13 @@
+{
+  "name": "jsoncss",
+  "version": "1.0.0",
+  "description": "A new era of CSS coding—CSS replaced by JSON. More resilient, structured, and powerful!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["json", "css", "jsoncss", "converter", "modern-css", "structured-css"],
+  "author": "Master Zero",
+  "license": "MIT"
+}
