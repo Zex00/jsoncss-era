@@ -18,13 +18,9 @@ JSONCSS is an innovative approach to styling web applications by replacing tradi
 ## 🎯 Features
 
 ✔️ **Supports all CSS properties.**
-
 ✔️ **Works with JavaScript seamlessly.**
-
 ✔️ **Easy to convert JSON to standard CSS.**
-
 ✔️ **Can be dynamically modified in real-time.**
-
 ✔️ **Error Handling** - JSON allows you to detect missing brackets, misplaced commas, or invalid property names quickly.
 
 
